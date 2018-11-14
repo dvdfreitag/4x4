@@ -1,8 +1,8 @@
 # 4x4
-An extensible 4x4 mechanical keyboard, expandable to 48 keys
+A 4x4 mechanical keyboard
 
 More or less a clone of https://github.com/di0ib/Misc/tree/master/4x4, but with a different controller. An Arduino Pro Micro instead of an Arduino Micro, they're much easier to get.
 
-![image](https://user-images.githubusercontent.com/4998806/41755528-e81571c2-75a5-11e8-8ddc-855e3769bf9c.png)
+![image](https://user-images.githubusercontent.com/4998806/48463609-a3997580-e7aa-11e8-8811-d999c0c2a896.png)
 
-![image](https://user-images.githubusercontent.com/4998806/41755548-f899239a-75a5-11e8-99ae-c4e42e55560a.png)
+![image](https://user-images.githubusercontent.com/4998806/48463617-aac08380-e7aa-11e8-88ad-2e41173db81e.png)
